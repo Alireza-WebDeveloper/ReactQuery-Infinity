@@ -1,0 +1,165 @@
+{
+   
+  "course": [
+    {
+      "course_id": 1,
+      "course_name": "Introduction to Programming",
+      "instructor": "John Smith",
+      "description": "Learn the fundamentals of programming with this introductory course.",
+      "duration": "8 weeks",
+      "price": 49.99
+    },
+    {
+      "course_id": 2,
+      "course_name": "Web Development Bootcamp",
+      "instructor": "Sarah Johnson",
+      "description": "Become a full-stack web developer in this intensive bootcamp.",
+      "duration": "12 weeks",
+      "price": 199.99
+    },
+    {
+      "course_id": 3,
+      "course_name": "Data Science Essentials",
+      "instructor": "David Miller",
+      "description": "Explore the world of data science and machine learning.",
+      "duration": "10 weeks",
+      "price": 79.99
+    },
+    {
+      "course_id": 4,
+      "course_name": "Graphic Design Fundamentals",
+      "instructor": "Emily Brown",
+      "description": "Master the basics of graphic design and create stunning visuals.",
+      "duration": "6 weeks",
+      "price": 59.99
+    },
+    {
+      "course_id": 5,
+      "course_name": "Digital Marketing Mastery",
+      "instructor": "Michael Davis",
+      "description": "Learn how to market products and services online effectively.",
+      "duration": "8 weeks",
+      "price": 69.99
+    },
+    {
+      "course_id": 6,
+      "course_name": "Introduction to Artificial Intelligence",
+      "instructor": "Linda White",
+      "description": "Discover the principles of AI and its applications.",
+      "duration": "9 weeks",
+      "price": 89.99
+    },
+    {
+      "course_id": 7,
+      "course_name": "Mobile App Development",
+      "instructor": "Kevin Turner",
+      "description": "Build mobile apps for iOS and Android platforms.",
+      "duration": "10 weeks",
+      "price": 119.99
+    },
+    {
+      "course_id": 8,
+      "course_name": "Business Finance for Beginners",
+      "instructor": "Amy Lee",
+      "description": "Learn the basics of finance and financial management.",
+      "duration": "7 weeks",
+      "price": 49.99
+    },
+    {
+      "course_id": 9,
+      "course_name": "Photography Fundamentals",
+      "instructor": "Mark Anderson",
+      "description": "Capture stunning photos with your camera or smartphone.",
+      "duration": "6 weeks",
+      "price": 59.99
+    },
+    {
+      "course_id": 10,
+      "course_name": "Entrepreneurship 101",
+      "instructor": "Jennifer Carter",
+      "description": "Start and grow your own business with expert guidance.",
+      "duration": "8 weeks",
+      "price": 79.99
+    },
+    {
+      "course_id": 11,
+      "course_name": "Advanced Excel Techniques",
+      "instructor": "Robert Green",
+      "description": "Master advanced Excel functions and data analysis.",
+      "duration": "6 weeks",
+      "price": 69.99
+    },
+    {
+      "course_id": 12,
+      "course_name": "Java Programming for Beginners",
+      "instructor": "Daniel Wilson",
+      "description": "Learn Java programming from scratch.",
+      "duration": "9 weeks",
+      "price": 79.99
+    },
+    {
+      "course_id": 13,
+      "course_name": "Creative Writing Workshop",
+      "instructor": "Samantha Clark",
+      "description": "Unlock your writing potential with creative writing exercises.",
+      "duration": "8 weeks",
+      "price": 49.99
+    },
+    {
+      "course_id": 14,
+      "course_name": "UX/UI Design Principles",
+      "instructor": "Alex Martinez",
+      "description": "Design user-friendly interfaces and enhance user experiences.",
+      "duration": "7 weeks",
+      "price": 69.99
+    },
+    {
+      "course_id": 15,
+      "course_name": "Python for Data Analysis",
+      "instructor": "Karen Brown",
+      "description": "Use Python for data manipulation and analysis.",
+      "duration": "10 weeks",
+      "price": 89.99
+    },
+    {
+      "course_id": 16,
+      "course_name": "Video Editing Essentials",
+      "instructor": "Matthew Hall",
+      "description": "Edit and enhance videos for various platforms.",
+      "duration": "7 weeks",
+      "price": 59.99
+    },
+    {
+      "course_id": 17,
+      "course_name": "Social Media Marketing Strategies",
+      "instructor": "Jessica Adams",
+      "description": "Promote businesses on social media effectively.",
+      "duration": "8 weeks",
+      "price": 69.99
+    },
+    {
+      "course_id": 18,
+      "course_name": "C++ Programming Fundamentals",
+      "instructor": "Richard Turner",
+      "description": "Learn the basics of C++ programming language.",
+      "duration": "9 weeks",
+      "price": 79.99
+    },
+    {
+      "course_id": 19,
+      "course_name": "Art History and Appreciation",
+      "instructor": "Olivia Parker",
+      "description": "Explore the history of art and its significance.",
+      "duration": "6 weeks",
+      "price": 49.99
+    },
+    {
+      "course_id": 20,
+      "course_name": "Introduction to Cybersecurity",
+      "instructor": "Andrew Scott",
+      "description": "Learn about cybersecurity threats and protection measures.",
+      "duration": "8 weeks",
+      "price": 69.99
+    }
+  ]
+}
