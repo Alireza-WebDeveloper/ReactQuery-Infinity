@@ -20,7 +20,7 @@ const useGetCourse = () => {
   } = useInfiniteQuery(queryKey, queryFn, {
     // Define a custom function to determine the next page param
     getNextPageParam: (_lastPage, pages) => {
-      return pages.length <= 10 ? pages.length + 1 : undefined;
+      return pages.length <= 5 ? pages.length + 1 : undefined;
     },
   });
 
